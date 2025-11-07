@@ -1,0 +1,1 @@
+# equity-trade-data-quality-framework
