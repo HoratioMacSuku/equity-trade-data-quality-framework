@@ -80,13 +80,14 @@ The Equity Trade Data Quality Framework ensures that trade data is validated aga
 ## 7. Folder Structure
 equity_trade_quality_framework/
 │
-├── config/ # YAML configs for schema and rule definitions
-├── ingestion/ # Trade data ingestion scripts
-├── validation/ # Core validation engine
-├── reporting/ # Compliance reports & dashboards
-├── audit_logs/ # Run history and exceptions
-├── tests/ # Unit & integration test cases
-└── docs/ # Documentation, SOP, and regulator notes
+├── config/             # YAML configs for schema and rule definitions
+├── ingestion/          # Trade data ingestion scripts
+├── validation/         # Core validation engine
+├── reporting/          # Compliance reports & dashboards
+├── audit_logs/         # Run history and exceptions
+├── tests/              # Unit & integration test cases
+└── docs/               # Documentation, SOP, and regulator notes
+
 
 
 
